@@ -1,0 +1,4 @@
+git remote rm origin
+git remote
+git remote add origin git@github.com:aaaa/bbb.git
+git push
